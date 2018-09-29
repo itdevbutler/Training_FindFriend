@@ -12,6 +12,7 @@
 		BBB5F26A215F2E6E0082785F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBB5F268215F2E6E0082785F /* Main.storyboard */; };
 		BBB5F26C215F2E720082785F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBB5F26B215F2E720082785F /* Assets.xcassets */; };
 		BBB5F26F215F2E720082785F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBB5F26D215F2E720082785F /* LaunchScreen.storyboard */; };
+		BBB5F277215F3B680082785F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBB5F276215F3B680082785F /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BBB5F26B215F2E720082785F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BBB5F26E215F2E720082785F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BBB5F270215F2E720082785F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBB5F276215F3B680082785F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				BBB5F264215F2E6E0082785F /* AppDelegate.swift */,
 				BBB5F266215F2E6E0082785F /* ViewController.swift */,
 				BBB5F268215F2E6E0082785F /* Main.storyboard */,
+				BBB5F276215F3B680082785F /* SecondViewController.swift */,
 				BBB5F26B215F2E720082785F /* Assets.xcassets */,
 				BBB5F26D215F2E720082785F /* LaunchScreen.storyboard */,
 				BBB5F270215F2E720082785F /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBB5F277215F3B680082785F /* SecondViewController.swift in Sources */,
 				BBB5F267215F2E6E0082785F /* ViewController.swift in Sources */,
 				BBB5F265215F2E6E0082785F /* AppDelegate.swift in Sources */,
 			);
